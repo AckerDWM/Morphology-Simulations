@@ -1,3 +1,3 @@
 # Neuron Morphology Simulations
 
-(https://github.com/AckerDWM/Morphology-Simulations/blob/master/figure.png)
+[](https://github.com/AckerDWM/Morphology-Simulations/blob/master/figure.png)
